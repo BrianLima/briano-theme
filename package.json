@@ -1,0 +1,22 @@
+{
+    "name": "briano-theme",
+    "displayName": "Briano Theme",
+    "description": "Dark Theme with less bright colors",
+    "version": "0.0.1",
+    "publisher": "BrianLima",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Briano Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Briano Theme Dark-color-theme.json"
+            }
+        ]
+    }
+}
