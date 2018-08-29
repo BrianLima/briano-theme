@@ -7,7 +7,7 @@ tries to bring a good looking dark theme using darker colors, trying to decrease
 the strain that dark-themes cause when using bright tones. It is using a cold
 color scheme and has been tested for Ruby and HTML/CSS development mostly.
 
-![Example](print.png?raw=true "Example")
+![Example](https://raw.githubusercontent.com/BrianLima/briano-theme/master/print.png?raw=true "Example")
 
 If you face any bugs or any design atrocities while using this, tell me, i`ll be
 glad to fix it for you.
