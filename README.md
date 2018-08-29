@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "briano-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Briano Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### A dark theme with dark colors aimming to cause less strain ou your eyes.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Hi, if you are like me, you probably like dark themes for your IDE, my theme
+tries to bring a good looking dark theme using darker colors, trying to decrease
+the strain that dark-themes cause when using bright tones. It is using a cold
+color scheme and has been tested for Ruby and HTML/CSS development mostly.
 
-**Enjoy!**
+![Example](print.png?raw=true "Example")
+
+If you face any bugs or any design atrocities while using this, tell me, i`ll be
+glad to fix it for you.
+
+This looks better than most dark themes specially on screens with color bleeding
+like low resolution LCD panels (MacBook Air, Cheapo Notebooks etc).
+
+Find more about my projects at:
+https://brianlima.github.io/
