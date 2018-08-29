@@ -17,8 +17,8 @@
 		"editorMarkerNavigation.background": "#21252b",
 		"editorRuler.foreground": "#AAB1C026",
 		"editor.lineHighlightBackground": "#131313",
-		"editor.selectionBackground": "#484e5b",
-		"editor.selectionHighlightBackground": "#484e5b",
+		"editor.selectionBackground": "#292929",
+		"editor.selectionHighlightBackground": "#363636",
 		"editorCursor.foreground": "#01691d",
 		"editor.findMatchHighlightBackground": "#131313",
 		"editor.wordHighlightBackground": "#484e5b",
@@ -668,7 +668,7 @@
 		  "name": "Meta tag",
 		  "scope": "meta.tag",
 		  "settings": {
-			"foreground": "#AAB1C0"
+			"foreground": "#4e3574"
 		  }
 		},
 		{
@@ -724,7 +724,7 @@
 		  "name": "Tags",
 		  "scope": "entity.name.tag",
 		  "settings": {
-			"foreground": "#d6d6d6"
+			"foreground": "#949494"
 		  }
 		},
 		{
